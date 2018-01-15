@@ -1,0 +1,41 @@
+This list is only for galaxies with Te metallicities (and some limits) at z>1.
+Maybe I have overlooked some papers from 2017. And I also have to check if Rigbys papers from 2017 are useful too.
+
+L.
+
+======================================
+
+Villar-Martin 2004:  z=3.36, 10+-3 % solar  (Mstar ∼> 9 × 10^7 M, salpeter)
+
+Yuan 2009: z=1.9   : M*= 4.4±1.2 ×10^8, IMF ???
+
+Atek 2011:  z=0.7 ,  M* = 7.81  (chab)
+
+Erb 2010: BX 418 : M* = 1.1*10^11  (salp)
+
+Rigby 2011:  Limits (O/H) > 8.2
+
+Christensen 2012: 3 sources (z=2, 3.5)
+
+Brammer 2012:  z=1.8 , no OII - no difference in T_O2-TO3:   Therefore will underestimate (O/H)  (Not reliable)
+
+Stark +2013 : 0846+0446 z=1.425  [OIII] 4363 found : metallicity 0.2 solar. (paper refers to separate work).
+
+James 2014: CSWA20  (mass-)
+
+Steidel 2014:  3 sources, incl BX 418 (Erb10)
+
+Maseda 2014: 3 EELGs at z~1.6  (T_O2 inferred.)
+             UDS-6377   UDS-12592    GOODS-S-43928
+UDS-12539
+
+Bayliss 2014: limit (O/H) > 8.05, z=3.63, M*=9.5 (chabrier)
+
+De Barros 2016: a few OIII] 1666 detections, but no direct metallicity reported
+                        12 + log(O/H) = 8.07 ± 0.44, z=3.2
+
+Kojima+2016 : Compilation of 11 objects ( lenses +LBGs). - most  are in previous papers, but maybe some new OIII] 1666,1661 lines.
+
+Sanders+2016: z=3.08 detected [OIII]4363 , [O/H] = 8.00+/-0.13 (direct),  logM*= 10^9.3  (COSMOS-1908)     
+                             R_23 = 7.86+-0.15  (my calculation)
+                              M* = 9.33    (chabrier)
