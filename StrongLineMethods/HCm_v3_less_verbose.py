@@ -31,7 +31,7 @@ def HII_CHIm(inter,inputfile,outputfile):
    n = 50
 
    # Reading of models grids. These can be changed
-   path = '/Users/vera/LowMet/CHImistry/HCm_v3.0/'
+   path = '/Users/vera/LowMet/HCm_v3.0/'
    if inter == 0:
       grid1 = np.loadtxt(path+'C13_cha_1Myr_v2.0.dat')
       grid2 = np.loadtxt(path+'C13_cha_1Myr_logU_adapted_emp_v2.0.dat')

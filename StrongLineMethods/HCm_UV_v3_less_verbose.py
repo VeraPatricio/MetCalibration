@@ -33,7 +33,7 @@ def HII_CHIm_UV(inputfile,outputfile):
 
 
    # Reading of models grids. These can be changed
-   path = '/Users/vera/LowMet/CHImistry/HCm_v3.0/'
+   path = '/Users/vera/LowMet/HCm_v3.0/'
    grid1 = np.loadtxt(path+'C13_cha_1Myr_v2.0_uv.dat')
    grid2 = np.loadtxt(path+'C13_cha_1Myr_logU_adapted_emp_v2.0_uv.dat')
    grid3 = np.loadtxt(path+'C13_cha_1Myr_logU-CO_adapted_emp_v2.0_uv.dat')
