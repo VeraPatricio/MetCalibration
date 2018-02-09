@@ -1,1 +1,2 @@
 on Erb+2016 calculated the OIII4959 as Tot - OIII5007
+same paper, manually canculated the Hb error based on the error of Ha/Hb and Ha flux and error (and assuming Hb=1)
