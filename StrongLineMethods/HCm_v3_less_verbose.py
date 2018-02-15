@@ -28,7 +28,7 @@ def HII_CHIm(inter,inputfile,outputfile):
 
 
    # Iterations for Montecarlo error derivation
-   n = 50
+   n = 100
 
    # Reading of models grids. These can be changed
    path = '/Users/vera/LowMet/HCm_v3.0/'
