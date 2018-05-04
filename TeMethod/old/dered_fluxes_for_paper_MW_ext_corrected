@@ -1,0 +1,37 @@
+Obj          	OIII] $\lambda$1661	& OIII] $\lambda$1666	& [CIII] $\lambda$1907	& CIII] $\lambda$1909	& [NeIII] $\lambda$3869	& [OII] Sum	& H$\delta$	& H$\gamma$	& [OIII] $\lambda$4363	& H$\beta$	& [OIII] $\lambda$4959	& [OIII] $\lambda$5007	& H$\alpha$	& [NII] $\lambda$6584	& 
+CSWA20 	&0.066$\pm$0.485	&0.166$\pm$0.224	&0.210$\pm$0.129	&0.193$\pm$0.130	&0.431$\pm$0.133	&0.556$\pm$0.253	&nan$\pm$nan	\\ 
+Abell_860_359 	&0.037$\pm$nan	&0.102$\pm$0.269	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&1.271$\pm$nan	&nan$\pm$nan	\\ 
+Abell_22.3 	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&1.122$\pm$0.314	&nan$\pm$nan	\\ 
+RCSGA 	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&0.314$\pm$0.003	&2.988$\pm$0.010	&0.270$\pm$0.004	\\ 
+A1689_31.1 	&0.199$\pm$0.002	&0.461$\pm$0.002	&0.329$\pm$0.002	&0.638$\pm$0.002	&0.204$\pm$0.003	&0.686$\pm$0.002	&nan$\pm$nan	\\ 
+SMACS_0304 	&0.026$\pm$0.139	&0.043$\pm$0.130	&nan$\pm$nan	&nan$\pm$nan	&0.367$\pm$5.090	&2.623$\pm$0.327	&0.301$\pm$0.122	\\ 
+MACS_0451 	&0.243$\pm$0.099	&0.364$\pm$0.102	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&0.645$\pm$nan	&nan$\pm$nan	\\ 
+COSMOS_12805 	&0.053$\pm$0.020	&0.081$\pm$0.028	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&2.924$\pm$nan	&nan$\pm$nan	\\ 
+BX660 	&0.000$\pm$nan	&0.230$\pm$0.060	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&0.879$\pm$0.177	&nan$\pm$nan	\\ 
+BX74 	&0.000$\pm$nan	&0.206$\pm$0.163	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&1.209$\pm$0.294	&nan$\pm$nan	\\ 
+BX418 	&0.000$\pm$nan	&0.152$\pm$0.049	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&0.909$\pm$0.181	&nan$\pm$nan	\\ 
+S16-stack 	&0.018$\pm$0.151	&0.050$\pm$0.105	&0.180$\pm$0.099	&0.124$\pm$0.102	&0.387$\pm$0.125	&2.778$\pm$0.312	&nan$\pm$nan	\\ 
+COSMOS-1908 	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	&0.425$\pm$0.039	&0.507$\pm$0.044	&0.338$\pm$0.046	\\ 
+the_Lynx_arc 	&0.188$\pm$nan	&0.396$\pm$nan	&0.361$\pm$nan	&0.248$\pm$nan	&0.692$\pm$nan	&0.251$\pm$nan	&nan$\pm$nan	\\ 
+SMACS_2031 	&0.072$\pm$0.014	&0.218$\pm$0.018	&0.293$\pm$0.015	&0.205$\pm$0.022	&0.347$\pm$0.050	&0.703$\pm$0.071	&nan$\pm$nan	\\ 
+SGAS_1050 	&0.019$\pm$0.007	&0.054$\pm$0.007	&0.209$\pm$0.069	&0.126$\pm$0.079	&0.322$\pm$0.040	&0.795$\pm$0.021	&nan$\pm$nan	\\ 
+
+
+ SECOND TABLE 
+
+CSWA20 	&0.618$\pm$0.147	&0.054$\pm$0.324	&1.000$\pm$0.172	&1.647$\pm$0.233	&4.871$\pm$0.603	&2.791$\pm$0.357	&0.050$\pm$0.201	\\ 
+Abell_860_359 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.103	&2.021$\pm$0.162	&6.080$\pm$0.447	&2.806$\pm$0.213	&nan$\pm$nan	\\ 
+Abell_22.3 	&nan$\pm$nan	&0.271$\pm$0.102	&1.000$\pm$0.139	&1.979$\pm$0.353	&6.444$\pm$0.698	&4.995$\pm$0.628	&0.050$\pm$nan	\\ 
+RCSGA 	&0.480$\pm$0.004	&0.053$\pm$nan	&1.000$\pm$0.004	&1.486$\pm$0.006	&4.739$\pm$0.015	&2.653$\pm$0.009	&0.169$\pm$0.003	\\ 
+A1689_31.1 	&0.469$\pm$0.002	&0.170$\pm$0.003	&1.000$\pm$0.003	&1.435$\pm$0.004	&4.755$\pm$0.010	&nan$\pm$nan	&nan$\pm$nan	\\ 
+SMACS_0304 	&0.459$\pm$0.128	&nan$\pm$nan	&1.000$\pm$0.165	&1.315$\pm$0.192	&4.589$\pm$0.547	&2.857$\pm$0.351	&0.092$\pm$0.114	\\ 
+MACS_0451 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.136	&1.368$\pm$0.140	&3.943$\pm$0.381	&2.541$\pm$0.288	&0.064$\pm$nan	\\ 
+COSMOS_12805 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.418	&1.889$\pm$0.694	&6.456$\pm$1.928	&2.824$\pm$0.836	&0.099$\pm$nan	\\ 
+BX660 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.277	&3.198$\pm$1.005	&6.395$\pm$1.289	&2.751$\pm$0.574	&0.070$\pm$nan	\\ 
+BX74 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.293	&2.434$\pm$0.604	&7.731$\pm$1.612	&2.872$\pm$0.613	&0.099$\pm$0.187	\\ 
+BX418 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.278	&2.299$\pm$0.822	&6.395$\pm$1.290	&2.792$\pm$0.582	&0.149$\pm$0.042	\\ 
+S16-stack 	&nan$\pm$nan	&0.068$\pm$nan	&1.000$\pm$0.150	&1.429$\pm$0.185	&4.236$\pm$0.461	&2.756$\pm$0.310	&0.266$\pm$0.110	\\ 
+COSMOS-1908 	&0.490$\pm$0.042	&0.124$\pm$0.048	&1.000$\pm$0.045	&2.271$\pm$0.078	&6.976$\pm$0.223	&nan$\pm$nan	&nan$\pm$nan	\\ 
+the_Lynx_arc 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$nan	&2.579$\pm$nan	&7.497$\pm$nan	&nan$\pm$nan	&nan$\pm$nan	\\ 
+SMACS_2031 	&nan$\pm$nan	&nan$\pm$nan	&1.000$\pm$0.049	&1.446$\pm$0.054	&4.792$\pm$0.166	&nan$\pm$nan	&nan$\pm$nan	\\ 
+SGAS_1050 	&0.521$\pm$0.020	&0.014$\pm$nan	&1.000$\pm$0.014	&2.349$\pm$0.030	&8.076$\pm$0.082	&nan$\pm$nan	&nan$\pm$nan	\\ 
