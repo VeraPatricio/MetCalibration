@@ -1,5 +1,7 @@
 # Accuracy of strong line metallicity diagnostics at z~1
 
+Paper: https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/sty2508/5097883?guestAccessKey=323a2804-2578-4294-918c-b37023ee110e
+
 Each folder corresponds, roughly, to a section in the paper.
 
 ## Data
